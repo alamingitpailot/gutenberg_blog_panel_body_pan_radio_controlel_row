@@ -1,0 +1,15 @@
+ 
+
+{
+    "name": "create-block/custom-post-social-row",
+    "title" : "Social Row",
+    "category"  : "widgets",
+    "parent" : ["create-block/custom-post"],
+    "icon" : "smiley",
+    "description" : "Add a social media row to the Giveway",
+    "textdomain" : "custom-post",
+    "supports" : {
+       "html":false
+    }
+
+}
